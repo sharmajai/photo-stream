@@ -1,213 +1,213 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
-    <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
-    <link href="https://maxvoltar.photo/feed.xml" rel="self" type="application/atom+xml" />
-    <link href="https://maxvoltar.photo/" rel="alternate" type="text/html"/>
-    <updated>2021-06-10T01:48:44+00:00</updated>
-    <id>2021-06-10T01:48:44+00:00</id>
-    <title type="html">maxvoltar.photo</title>
-    <subtitle>@maxvoltar's minimalistic, self-hosted photo stream.</subtitle>
+    <generator uri="https://github.com/sharmajai/photo-stream">Photo Stream by @sharmajai</generator>
+    <link href="https://sarla-vijendra.some.life/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://sarla-vijendra.some.life/" rel="alternate" type="text/html"/>
+    <updated>2021-06-10T02:23:01+00:00</updated>
+    <id>2021-06-10T02:23:01+00:00</id>
+    <title type="html">40 Years of Togetherness</title>
+    <subtitle>@sharmajai's minimalistic, self-hosted photo stream.</subtitle>
     <author>
-      <name>Tim Van Damme</name>
-      <email>tim@maxvoltar.be</email>
-      <uri>https://maxvoltar.com</uri>
+      <name>Jai Sharma</name>
+      <email>sharmajai@gmail.com</email>
+      <uri>https://jai.some.life</uri>
     </author>
     <entry>
       <title type="html">IMG-20210531-WA0024</title>
-      <link href="https://maxvoltar.photo/img-20210531-wa0024/" rel="alternate" type="text/html" title="IMG-20210531-WA0024" />
+      <link href="https://sarla-vijendra.some.life/img-20210531-wa0024/" rel="alternate" type="text/html" title="IMG-20210531-WA0024" />
       <published>2021-05-31T15:50:48+00:00</published>
       <updated>2021-05-31T15:50:48+00:00</updated>
-      <id>https://maxvoltar.photo//img-20210531-wa0024/</id>
+      <id>https://sarla-vijendra.some.life//img-20210531-wa0024/</id>
       <content type="html">
-        <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-wa0024/"><img src="https://maxvoltar.photo//photos/large/IMG-20210531-WA0024-686656.jpeg" alt="IMG-20210531-WA0024" /></a></figure>
+        <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-wa0024/"><img src="https://sarla-vijendra.some.life//photos/large/IMG-20210531-WA0024-686656.jpeg" alt="IMG-20210531-WA0024" /></a></figure>
       ]]>
     </content>
     <author>
-      <name>Tim Van Damme</name>
-      <email>tim@maxvoltar.be</email>
-      <uri>https://maxvoltar.com</uri>
+      <name>Jai Sharma</name>
+      <email>sharmajai@gmail.com</email>
+      <uri>https://jai.some.life</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG-20210531-WA0024-686656.jpeg" />
-      <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG-20210531-WA0024-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG-20210531-WA0024-686656.jpeg" />
+      <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG-20210531-WA0024-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">IMG-20210531-WA0018</title>
-        <link href="https://maxvoltar.photo/img-20210531-wa0018/" rel="alternate" type="text/html" title="IMG-20210531-WA0018" />
+        <link href="https://sarla-vijendra.some.life/img-20210531-wa0018/" rel="alternate" type="text/html" title="IMG-20210531-WA0018" />
         <published>2021-05-31T15:47:15+00:00</published>
         <updated>2021-05-31T15:47:15+00:00</updated>
-        <id>https://maxvoltar.photo//img-20210531-wa0018/</id>
+        <id>https://sarla-vijendra.some.life//img-20210531-wa0018/</id>
         <content type="html">
-          <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-wa0018/"><img src="https://maxvoltar.photo//photos/large/IMG-20210531-WA0018-686656.jpeg" alt="IMG-20210531-WA0018" /></a></figure>
+          <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-wa0018/"><img src="https://sarla-vijendra.some.life//photos/large/IMG-20210531-WA0018-686656.jpeg" alt="IMG-20210531-WA0018" /></a></figure>
         ]]>
       </content>
       <author>
-        <name>Tim Van Damme</name>
-        <email>tim@maxvoltar.be</email>
-        <uri>https://maxvoltar.com</uri>
+        <name>Jai Sharma</name>
+        <email>sharmajai@gmail.com</email>
+        <uri>https://jai.some.life</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG-20210531-WA0018-686656.jpeg" />
-        <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG-20210531-WA0018-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG-20210531-WA0018-686656.jpeg" />
+        <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG-20210531-WA0018-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">IMG_20210531_154533</title>
-          <link href="https://maxvoltar.photo/img-20210531-154533/" rel="alternate" type="text/html" title="IMG_20210531_154533" />
+          <link href="https://sarla-vijendra.some.life/img-20210531-154533/" rel="alternate" type="text/html" title="IMG_20210531_154533" />
           <published>2021-05-31T15:45:35+00:00</published>
           <updated>2021-05-31T15:45:35+00:00</updated>
-          <id>https://maxvoltar.photo//img-20210531-154533/</id>
+          <id>https://sarla-vijendra.some.life//img-20210531-154533/</id>
           <content type="html">
-            <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-154533/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_154533-686656.jpg" alt="IMG_20210531_154533" /></a></figure>
+            <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-154533/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154533-686656.jpg" alt="IMG_20210531_154533" /></a></figure>
           ]]>
         </content>
         <author>
-          <name>Tim Van Damme</name>
-          <email>tim@maxvoltar.be</email>
-          <uri>https://maxvoltar.com</uri>
+          <name>Jai Sharma</name>
+          <email>sharmajai@gmail.com</email>
+          <uri>https://jai.some.life</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_154533-686656.jpg" />
-          <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_154533-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154533-686656.jpg" />
+          <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154533-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">IMG_20210531_154119</title>
-            <link href="https://maxvoltar.photo/img-20210531-154119/" rel="alternate" type="text/html" title="IMG_20210531_154119" />
+            <link href="https://sarla-vijendra.some.life/img-20210531-154119/" rel="alternate" type="text/html" title="IMG_20210531_154119" />
             <published>2021-05-31T15:41:20+00:00</published>
             <updated>2021-05-31T15:41:20+00:00</updated>
-            <id>https://maxvoltar.photo//img-20210531-154119/</id>
+            <id>https://sarla-vijendra.some.life//img-20210531-154119/</id>
             <content type="html">
-              <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-154119/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_154119-686656.jpg" alt="IMG_20210531_154119" /></a></figure>
+              <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-154119/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154119-686656.jpg" alt="IMG_20210531_154119" /></a></figure>
             ]]>
           </content>
           <author>
-            <name>Tim Van Damme</name>
-            <email>tim@maxvoltar.be</email>
-            <uri>https://maxvoltar.com</uri>
+            <name>Jai Sharma</name>
+            <email>sharmajai@gmail.com</email>
+            <uri>https://jai.some.life</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_154119-686656.jpg" />
-            <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_154119-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154119-686656.jpg" />
+            <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154119-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
               <title type="html">IMG_20210531_154048</title>
-              <link href="https://maxvoltar.photo/img-20210531-154048/" rel="alternate" type="text/html" title="IMG_20210531_154048" />
+              <link href="https://sarla-vijendra.some.life/img-20210531-154048/" rel="alternate" type="text/html" title="IMG_20210531_154048" />
               <published>2021-05-31T15:40:49+00:00</published>
               <updated>2021-05-31T15:40:49+00:00</updated>
-              <id>https://maxvoltar.photo//img-20210531-154048/</id>
+              <id>https://sarla-vijendra.some.life//img-20210531-154048/</id>
               <content type="html">
-                <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-154048/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_154048-686656.jpg" alt="IMG_20210531_154048" /></a></figure>
+                <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-154048/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154048-686656.jpg" alt="IMG_20210531_154048" /></a></figure>
               ]]>
             </content>
             <author>
-              <name>Tim Van Damme</name>
-              <email>tim@maxvoltar.be</email>
-              <uri>https://maxvoltar.com</uri>
+              <name>Jai Sharma</name>
+              <email>sharmajai@gmail.com</email>
+              <uri>https://jai.some.life</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_154048-686656.jpg" />
-              <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_154048-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154048-686656.jpg" />
+              <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_154048-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
                 <title type="html">IMG_20210531_153817__01</title>
-                <link href="https://maxvoltar.photo/img-20210531-153817-01/" rel="alternate" type="text/html" title="IMG_20210531_153817__01" />
+                <link href="https://sarla-vijendra.some.life/img-20210531-153817-01/" rel="alternate" type="text/html" title="IMG_20210531_153817__01" />
                 <published>2021-05-31T15:38:18+00:00</published>
                 <updated>2021-05-31T15:38:18+00:00</updated>
-                <id>https://maxvoltar.photo//img-20210531-153817-01/</id>
+                <id>https://sarla-vijendra.some.life//img-20210531-153817-01/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-153817-01/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_153817__01-686656.jpg" alt="IMG_20210531_153817__01" /></a></figure>
+                  <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-153817-01/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153817__01-686656.jpg" alt="IMG_20210531_153817__01" /></a></figure>
                 ]]>
               </content>
               <author>
-                <name>Tim Van Damme</name>
-                <email>tim@maxvoltar.be</email>
-                <uri>https://maxvoltar.com</uri>
+                <name>Jai Sharma</name>
+                <email>sharmajai@gmail.com</email>
+                <uri>https://jai.some.life</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_153817__01-686656.jpg" />
-                <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_153817__01-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153817__01-686656.jpg" />
+                <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153817__01-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
                   <title type="html">IMG_20210531_153817</title>
-                  <link href="https://maxvoltar.photo/img-20210531-153817/" rel="alternate" type="text/html" title="IMG_20210531_153817" />
+                  <link href="https://sarla-vijendra.some.life/img-20210531-153817/" rel="alternate" type="text/html" title="IMG_20210531_153817" />
                   <published>2021-05-31T15:38:18+00:00</published>
                   <updated>2021-05-31T15:38:18+00:00</updated>
-                  <id>https://maxvoltar.photo//img-20210531-153817/</id>
+                  <id>https://sarla-vijendra.some.life//img-20210531-153817/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-153817/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_153817-686656.jpg" alt="IMG_20210531_153817" /></a></figure>
+                    <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-153817/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153817-686656.jpg" alt="IMG_20210531_153817" /></a></figure>
                   ]]>
                 </content>
                 <author>
-                  <name>Tim Van Damme</name>
-                  <email>tim@maxvoltar.be</email>
-                  <uri>https://maxvoltar.com</uri>
+                  <name>Jai Sharma</name>
+                  <email>sharmajai@gmail.com</email>
+                  <uri>https://jai.some.life</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_153817-686656.jpg" />
-                  <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_153817-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153817-686656.jpg" />
+                  <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153817-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
                     <title type="html">IMG_20210531_153741</title>
-                    <link href="https://maxvoltar.photo/img-20210531-153741/" rel="alternate" type="text/html" title="IMG_20210531_153741" />
+                    <link href="https://sarla-vijendra.some.life/img-20210531-153741/" rel="alternate" type="text/html" title="IMG_20210531_153741" />
                     <published>2021-05-31T15:37:42+00:00</published>
                     <updated>2021-05-31T15:37:42+00:00</updated>
-                    <id>https://maxvoltar.photo//img-20210531-153741/</id>
+                    <id>https://sarla-vijendra.some.life//img-20210531-153741/</id>
                     <content type="html">
-                      <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-153741/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_153741-686656.jpg" alt="IMG_20210531_153741" /></a></figure>
+                      <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-153741/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153741-686656.jpg" alt="IMG_20210531_153741" /></a></figure>
                     ]]>
                   </content>
                   <author>
-                    <name>Tim Van Damme</name>
-                    <email>tim@maxvoltar.be</email>
-                    <uri>https://maxvoltar.com</uri>
+                    <name>Jai Sharma</name>
+                    <email>sharmajai@gmail.com</email>
+                    <uri>https://jai.some.life</uri>
                   </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_153741-686656.jpg" />
-                    <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_153741-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153741-686656.jpg" />
+                    <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153741-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
                       <title type="html">IMG_20210531_153730</title>
-                      <link href="https://maxvoltar.photo/img-20210531-153730/" rel="alternate" type="text/html" title="IMG_20210531_153730" />
+                      <link href="https://sarla-vijendra.some.life/img-20210531-153730/" rel="alternate" type="text/html" title="IMG_20210531_153730" />
                       <published>2021-05-31T15:37:31+00:00</published>
                       <updated>2021-05-31T15:37:31+00:00</updated>
-                      <id>https://maxvoltar.photo//img-20210531-153730/</id>
+                      <id>https://sarla-vijendra.some.life//img-20210531-153730/</id>
                       <content type="html">
-                        <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-153730/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_153730-686656.jpg" alt="IMG_20210531_153730" /></a></figure>
+                        <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-153730/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153730-686656.jpg" alt="IMG_20210531_153730" /></a></figure>
                       ]]>
                     </content>
                     <author>
-                      <name>Tim Van Damme</name>
-                      <email>tim@maxvoltar.be</email>
-                      <uri>https://maxvoltar.com</uri>
+                      <name>Jai Sharma</name>
+                      <email>sharmajai@gmail.com</email>
+                      <uri>https://jai.some.life</uri>
                     </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_153730-686656.jpg" />
-                      <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_153730-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153730-686656.jpg" />
+                      <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153730-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
                         <title type="html">IMG_20210531_153712__01</title>
-                        <link href="https://maxvoltar.photo/img-20210531-153712-01/" rel="alternate" type="text/html" title="IMG_20210531_153712__01" />
+                        <link href="https://sarla-vijendra.some.life/img-20210531-153712-01/" rel="alternate" type="text/html" title="IMG_20210531_153712__01" />
                         <published>2021-05-31T15:37:13+00:00</published>
                         <updated>2021-05-31T15:37:13+00:00</updated>
-                        <id>https://maxvoltar.photo//img-20210531-153712-01/</id>
+                        <id>https://sarla-vijendra.some.life//img-20210531-153712-01/</id>
                         <content type="html">
-                          <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-153712-01/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_153712__01-686656.jpg" alt="IMG_20210531_153712__01" /></a></figure>
+                          <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-153712-01/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153712__01-686656.jpg" alt="IMG_20210531_153712__01" /></a></figure>
                         ]]>
                       </content>
                       <author>
-                        <name>Tim Van Damme</name>
-                        <email>tim@maxvoltar.be</email>
-                        <uri>https://maxvoltar.com</uri>
+                        <name>Jai Sharma</name>
+                        <email>sharmajai@gmail.com</email>
+                        <uri>https://jai.some.life</uri>
                       </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_153712__01-686656.jpg" />
-                        <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_153712__01-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153712__01-686656.jpg" />
+                        <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153712__01-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
                           <title type="html">IMG_20210531_153551__01</title>
-                          <link href="https://maxvoltar.photo/img-20210531-153551-01/" rel="alternate" type="text/html" title="IMG_20210531_153551__01" />
+                          <link href="https://sarla-vijendra.some.life/img-20210531-153551-01/" rel="alternate" type="text/html" title="IMG_20210531_153551__01" />
                           <published>2021-05-31T15:35:52+00:00</published>
                           <updated>2021-05-31T15:35:52+00:00</updated>
-                          <id>https://maxvoltar.photo//img-20210531-153551-01/</id>
+                          <id>https://sarla-vijendra.some.life//img-20210531-153551-01/</id>
                           <content type="html">
-                            <![CDATA[<figure><a href="https://maxvoltar.photo/img-20210531-153551-01/"><img src="https://maxvoltar.photo//photos/large/IMG_20210531_153551__01-686656.jpg" alt="IMG_20210531_153551__01" /></a></figure>
+                            <![CDATA[<figure><a href="https://sarla-vijendra.some.life/img-20210531-153551-01/"><img src="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153551__01-686656.jpg" alt="IMG_20210531_153551__01" /></a></figure>
                           ]]>
                         </content>
                         <author>
-                          <name>Tim Van Damme</name>
-                          <email>tim@maxvoltar.be</email>
-                          <uri>https://maxvoltar.com</uri>
+                          <name>Jai Sharma</name>
+                          <email>sharmajai@gmail.com</email>
+                          <uri>https://jai.some.life</uri>
                         </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://maxvoltar.photo//photos/large/IMG_20210531_153551__01-686656.jpg" />
-                          <media:content medium="image" url="https://maxvoltar.photo//photos/large/IMG_20210531_153551__01-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153551__01-686656.jpg" />
+                          <media:content medium="image" url="https://sarla-vijendra.some.life//photos/large/IMG_20210531_153551__01-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                         </feed>
